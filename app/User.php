@@ -1,5 +1,5 @@
 <?php
-//Alteração
+
 namespace App;
 
 use Illuminate\Notifications\Notifiable;
